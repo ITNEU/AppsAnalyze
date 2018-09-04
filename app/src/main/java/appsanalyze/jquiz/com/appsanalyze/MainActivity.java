@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //New comment
         int x =3;
         x=x+2;
+        int s;
         //abcdd
     }
 }
