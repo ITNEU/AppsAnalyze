@@ -1,4 +1,4 @@
-package appsanalyze.jquiz.com.appsanalyze;
+package appsanalyze.jquiz.com.mylibrary;
 
 import org.junit.Test;
 
@@ -13,9 +13,5 @@ public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() {
         assertEquals(4, 2 + 2);
-    }
-
-    public void multiply(){
-        assertEquals(12,2,6);
     }
 }
