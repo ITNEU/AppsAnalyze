@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         int x =3;
         x=x+2;
         int s;
+        s=3;
         //abcdd
     }
 }
