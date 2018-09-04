@@ -10,7 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //New comment
-
+        int x =3;
+        x=x+2;
         //abcdd
     }
 }
